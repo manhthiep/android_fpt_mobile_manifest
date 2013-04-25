@@ -10,7 +10,8 @@
   <default remote="caf" revision="ics_strawberry_rb5.1"/>
 
   <project name="android_device_fpt_hd" path="device/fpt/hd" remote="manhthiep" revision="2221fdcea7a657fcba775cab40c63c80e4f59394"/>
-  
+  <project name="android_vendor_qcom_proprietary" path="vendor/qcom/proprietary" remote="manhthiep" revision="7edf81153525d69a84062a086c2e891bb0131efa"/>
+
   <project name="device/common" revision="0dcc1e03659db33b77392529466f9eb685cdd3c7"/>
   <!--<project name="device/generic/goldfish" revision="5feb8ecfd93c4e3c9eec89ab20dd143d05f7e91c"/>-->
   <!--<project name="device/google/accessory/arduino" revision="9b1ef69828775a15396b753c16a83417bb769138"/>-->
